@@ -44,7 +44,7 @@
 }
 
 .dark-background {
-  --background-color: #ff4d4d; /* Changed for dark background to be red also */
+  --background-color: #FF4500; /* Changed for dark background to be red also */
   --default-color: #ffffff;
   --heading-color: #ffffff;
     --surface-color: #e63946;
